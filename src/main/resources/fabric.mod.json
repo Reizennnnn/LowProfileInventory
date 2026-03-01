@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "inventoryswap",
+  "version": "1.0.0",
+
+  "name": "Low Profile Inventory Swap",
+  "description": "Allows swapping items in inventory to hotbar! Install latest fabric API version",
+  "authors": ["Reizennnnn"],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/inventoryswap/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": ["org.swap.inventoryswap.client.InventoryswapClient"]
+  },
+
+  "mixins": [
+    "inventoryswap.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
