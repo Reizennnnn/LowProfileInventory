@@ -10,4 +10,4 @@ Fabric 0.18.4
 ## Screenshots
 ![keybinds](photo/keybind.png)
 
-[![Watch the video](https://img.youtube.com/vi/C7rHsahyx-E/maxresdefault.jpg)](https://www.youtube.com/watch?v=C7rHsahyx-E)
+[![Watch the video](https://img.youtube.com/vi/C7rHsahyx-E/maxresdefault.jpg)] (https://www.youtube.com/watch?v=C7rHsahyx-E)
