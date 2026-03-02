@@ -2,6 +2,10 @@
 
   A mod that adds support for swapping items from any inventory slot to your selected hotbar slot
 
+##Changelog
+Added 1.21.11 version, Still under development but functional, may be unstable
+
+
 ## Requirements
 Minecraft 1.21.8
 Fabric 0.18.4
